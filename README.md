@@ -59,7 +59,7 @@ Financial institutions receive thousands of loan applications. This project help
 
 ## 🚀 How to Run
 
-1. Open in [Google Colab](https://colab.research.google.com/)
+1. Open in [Google Colab](https://colab.research.google.com/drive/1byEOaVw-z1PZUqnKo5bhoMTgLMK-DiGM?usp=sharing)
 2. Upload the CSV dataset (`loan.csv`)
 3. Run all cells to train and test the model
 4. View predictions and evaluation metrics
@@ -93,6 +93,6 @@ Financial institutions receive thousands of loan applications. This project help
 **Praveen Kumar**  
 _Machine Learning Enthusiast | Software Developer_
 
-📫 [GitHub](https://github.com/praveenkhumar) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+📫 [GitHub](https://github.com/praveenkhumar) | [LinkedIn](https://www.linkedin.com/in/praveen-kumar-prabakaran/)
 
 ---
