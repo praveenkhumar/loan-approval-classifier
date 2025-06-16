@@ -76,7 +76,7 @@ Financial institutions receive thousands of loan applications. This project help
 
 ## 📎 Demo Link
 
-[🔗 Click to View the Colab Notebook](YOUR_PUBLIC_COLAB_LINK_HERE)
+[🔗 Click to View the Colab Notebook](https://colab.research.google.com/drive/1byEOaVw-z1PZUqnKo5bhoMTgLMK-DiGM?usp=sharing)
 
 ---
 
